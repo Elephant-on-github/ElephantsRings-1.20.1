@@ -1,4 +1,4 @@
-package net.elephant.tutorialmod;
+package net.elephant.rings;
 
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.api.distmarker.Dist;
